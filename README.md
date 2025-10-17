@@ -1,12 +1,14 @@
-# Proyecto P10
+# Proyecto P10: Beta Bank
 
-Descripción breve del proyecto P10 de ciencia de datos.
+Análisis de datos de clientes de Beta Bank para predecir la probabilidad de que soliciten un crédito.
 
 ## Objetivo
-Explicar el objetivo principal del análisis realizado en este proyecto.
+Desarrollar un modelo predictivo para identificar clientes potenciales para productos financieros.
 
 ## Estructura
-- Notebooks y archivos de datos relacionados.
+- Notebooks de análisis
+- Archivos CSV de datos de clientes
+- Resultados de modelos
 
 ## Cómo ejecutar
 Abre el notebook principal y sigue las instrucciones.
